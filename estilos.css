@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "letra1";
+    src: url("/fonts/FiraCodeNerdFont-Regular.ttf");
+}
+
+h1{
+    background-color: red;
+    color: blue; 
+}
+
+#titulo1{
+    text-decoration: underline;
+    background-color: pink;
+}
+
+.grupo1{
+    border: medium solid;
+    background-color: peru;
+} 
+
+.miniver-regular{
+    font-family: "Miniver", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a:visited{
+    
+}
